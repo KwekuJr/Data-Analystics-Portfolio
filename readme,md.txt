@@ -1,22 +1,11 @@
-# Project Cost Tracking Dashboard
+## 🧾 Excel Dashboard – Project Cost Tracker
 
-This Excel dashboard is designed to help track and analyze project costs across various departments. It provides an overview of budgeted vs actual costs, variance analysis, and visualizations for quick insights.
+This dashboard was developed to monitor and compare budgeted vs actual project costs in real-time.
 
-## Features
-- Monthly cost tracking
-- Department-wise cost breakdown
-- Variance analysis (Budget vs Actual)
-- Visual summaries with charts
+**Features:**
+- Conditional formatting to flag cost overruns
+- Interactive pivot tables and slicers
+- Monthly variance analysis
+- Dynamic charts for reporting
 
-## Use Case
-Ideal for financial analysts, project managers, or business intelligence professionals managing multi-departmental projects.
-
-## Technologies Used
-- Microsoft Excel
-- Excel Functions: SUM, IF, VLOOKUP, etc.
-- Excel Charts & Pivot Tables
-
-## Author
-Bismark Kweku Amponsah  
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/KwekuJr/Data-Analystics-Portfolio)
-
+📁 File: `Project Reports.xlsx`
