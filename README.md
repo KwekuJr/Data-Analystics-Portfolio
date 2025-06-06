@@ -29,7 +29,7 @@ Reduced project overruns by 10% and improved reporting speed by 18% using a cust
 ### 2️⃣ Financial Modeling – Budget vs Actual Tracker (Excel)
 📌 *Remote Role – Raven Eye Engineering Ltd*  
 Forecasted budgets with real-time cash flow updates. Enabled 15% cost savings and monthly decision reporting.  
-🔗 ![Dashboard Screenshot](./Dashboard Screenshot.png)
+🔗 Dashboard Screenshot.png
 
 ---
 
