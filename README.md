@@ -29,7 +29,7 @@ Reduced project overruns by 10% and improved reporting speed by 18% using a cust
 ### 2️⃣ Financial Modeling – Budget vs Actual Tracker (Excel)
 📌 *Remote Role – Raven Eye Engineering Ltd*  
 Forecasted budgets with real-time cash flow updates. Enabled 15% cost savings and monthly decision reporting.  
-🔗 *[Coming Soon: Excel file with sample data]*
+🔗 ![Dashboard Screenshot](./Dashboard Screenshot.png)
 
 ---
 
@@ -63,5 +63,4 @@ Built a Tableau dashboard tracking environmental KPIs (CO₂, water usage, suppl
 
 > “Data is a tool, not a crutch. I use it to drive strategic, sustainable action — not just dashboards.”
 
-![Dashboard Screenshot](./your-screenshot-file.png)
 
