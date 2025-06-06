@@ -57,7 +57,6 @@ Built a Tableau dashboard tracking environmental KPIs (CO₂, water usage, suppl
 ## 🔗 Contact
 
 - 📧 Email: kwekuamponsah18@gmail.com  
-- 🌐 LinkedIn: [linkedin.com/in/your-link]  
 - 🇫🇷 Based in Dijon, France – Open to remote & hybrid roles across Europe
 
 ---
