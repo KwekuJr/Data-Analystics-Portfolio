@@ -63,3 +63,5 @@ Built a Tableau dashboard tracking environmental KPIs (CO₂, water usage, suppl
 
 > “Data is a tool, not a crutch. I use it to drive strategic, sustainable action — not just dashboards.”
 
+![Dashboard Screenshot](./your-screenshot-file.png)
+
